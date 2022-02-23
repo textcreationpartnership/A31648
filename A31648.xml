@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quaker's prophesie of the terrible judgment that will befal this land being Englands sad estate and condition lamented in this just complaint taken up against the greatest part of her inhabitants, because of their great abonimations and treacherous dealings both with God and man, for which cause the terrible and righteous judgments of the Lord are coming upon the land of England : found in a manuscript amongst the Quakers writings / by Absalon Chamberlin.</title>
+            <author>Chamberlin, Absalon.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31648</idno>
+            <idno type="STC">Wing C1911</idno>
+            <idno type="STC">ESTC R24744</idno>
+            <idno type="EEBO-CITATION">08454306</idno>
+            <idno type="OCLC">ocm 08454306</idno>
+            <idno type="VID">41361</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31648)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41361)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1249:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quaker's prophesie of the terrible judgment that will befal this land being Englands sad estate and condition lamented in this just complaint taken up against the greatest part of her inhabitants, because of their great abonimations and treacherous dealings both with God and man, for which cause the terrible and righteous judgments of the Lord are coming upon the land of England : found in a manuscript amongst the Quakers writings / by Absalon Chamberlin.</title>
+                  <author>Chamberlin, Absalon.</author>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:41361:1" rendition="simple:additions"/>
+            <head>
+               <hi>The</hi> Quaker's Propheſie, <hi>of the terrible Judgment that will befal this Land, being</hi> Englands <hi>ſad Eſtate and Condition lamented, in this Juſt Com<g ref="char:EOLhyphen"/>plaint, taken up againſt the greateſt part of her Inhabitants, becauſe of their great Abominations, and treacherous dealings both with</hi> God and Man: <hi>For which cauſe the terrible and</hi> Righteous Judgments <hi>of the</hi> Lord, <hi>are coming upon the Land of</hi> England. <hi>Found in Manuſcript amongſt the</hi> Quakers Writings: <hi>By</hi> Abſalon Chamberlin, <hi>a well-wiſher to the</hi> People of England.</head>
+            <head type="sub">In a Letter to <hi>D</hi>—of <hi>M</hi>—</head>
+            <p>OH <hi>England, England!</hi> the Abominations of the greateſt part of thy Inhabitants, who can declare them? they have reached Heaven, ſo as they are come up before the Lord, the Jealous God, and wo unto that part of thy Inhabitants, who have ſin<g ref="char:EOLhyphen"/>ned out the day of their Viſitation, and have wholly ſlighted the day of Gods Patience, and long forbearance; and would have none of his Reproof, but have altogether rejected the ſame, and have made a mock at Sin, and have ſported themſelves with their own de<g ref="char:EOLhyphen"/>ceivings and luſts, and have gone a Whoring, from under the God of their Lives. Where<g ref="char:EOLhyphen"/>fore thus ſaith the Lord, the only God, I will make ſuch become a hiſſing and reproach, and my anger they ſhall not be able to eſcape, becauſe of their provoking abominations, and treacherous dealings, both with God and Man.</p>
+            <p>Oh <hi>England! England!</hi> How have, and yet do, a great part of thy Inhabitants ruſh into Idolatry, and all manner of Prophaneneſs, and grievous abominations, even as the Horſe and Mighty ruſh into the Battel. How do they drink in iniquity, even as the Ox, or parched ground, drinketh in Water. Oh <hi>England!</hi> What manner of lamentation ſhall I make for thee my Native Country?</p>
+            <p>Oh <hi>England! England!</hi> What manner of complaint may I take up againſt a great part of thine Inhabitants, who have long ſought, and yet ſeek thy Ruine and Deſtructi<g ref="char:EOLhyphen"/>on? Verily, their actions have declared them to be like the Inhabitants of <hi>Sodom:</hi> Yea, their ſins have rendred them to be as bad as thoſe of <hi>Gomorrah.</hi> Oh, they have vexed the righteous Soul, yea, and they have grieved the Spirit of the Lord from day to day, with their unjuſt Converſations; they have multiplied their tranſgreſſions, and heaped up their iniquities, till they are become as the Sand on the Sea-ſhore, without number. Oh wretched <hi>England!</hi> The Lord hath long ſtriven with them; Yea, he hath alſo long born their Iniquities; he would have gathered them to himſelf out of their abomina<g ref="char:EOLhyphen"/>tions: yea, he would oft have healed them, but they would not; but they have ſtiffned their necks, and hardned their hearts againſt the Lord and his Counſel, day after day, and have choſen their own ways and works, even to their own hurt, and would by no means be reclaimed. For when the Lord hath reproved them, (by the light of his Son in their own Conſciences) and ſet their ſins in order before their eyes, they have ſtop<g ref="char:EOLhyphen"/>ped their ears, and cloſed their eyes, and wilfully rebelled againſt the Power of God, and trampled upon his Witneſs (the light in them) as a thing of naught, counting it not worth the taking notice of. And when the Lord hath raiſed up Prophets, Children and Servants, and ſent them out, commanding them to lift up their Voices like Trum<g ref="char:EOLhyphen"/>pets, and to ſhew the People their tranſgreſſions, and to Preach Repentance and amend<g ref="char:EOLhyphen"/>ment of Life, yea, to warn and exhort them to turn from their Sins to God, and to lay before them their great abominations, and to Propheſie what ſhould come upon them, if they would not turn from the evil of their doing.</p>
+            <p>Oh <hi>England! England!</hi> wretched <hi>England!</hi> How art thou overſpread with waſters and ſpoilers, who like Catterpillars devour thy pleaſant Fruit? Oh Land, (the whore<g ref="char:EOLhyphen"/>doms and idolatries) that are daily committed and acted in thee, who can declare them?
+<pb facs="tcp:41361:2"/>O<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> City, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y enter City, that b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oody City! can its (abominations) be paral<g ref="char:EOLhyphen"/>ell'd in the Earth? Surely it hath exceeded <hi>Sodom</hi> in wickedneſs, the Lord is very an<g ref="char:EOLhyphen"/>gry with a great part of its Inhabitants, [and his Vengeance is nigh to come upon them. Wo unto you Whoremongers, Drunkards, Gluttons, Swearers, Curſers, Blaſphemers, Cheaters and Idolaters! wo unto you Proud, Wanton, and Prophane, vain Perſons! wo unto you Mountebanks, Stage-Players, Bear-baiters, Gameſters, and all manner of abo<g ref="char:EOLhyphen"/>minable workers, and you that build up Towers, Scaffolds, and vain heatheniſh repre<g ref="char:EOLhyphen"/>ſentations] and ſuch like, and make and garniſh Images, to draw Peoples minds after Idolatry, and for your curſed gain and luſts, in pretence of honouring your King. Oh, how are People drawn into gazing and wondring after theſe (abominations) it grieveth the Righteous Soul to behold ſuch great wickedneſs? Oh you wicked and abominable workers, and devourers of the Creation! the Lord God will meet with you in a time when ye are little aware of him, he'l ſtain your Pride, vain-Glory, and Idolatry, and give you your portion amongſt devourers, (except you ſpeedily repent) and your abetters, ſtrengthners, and helpers forward of ſuch ungodlineſs, (that do it knowingly) and de<g ref="char:EOLhyphen"/>lighters therein; the Lord will not acquit you, he'l ſmite you for theſe things, and that right ſoon.</p>
+            <p>Oh, how do you daily provoke the Lord againſt your ſelves, you wicked workers! how dare you make repreſentations of deſtruction and ruine? how dare you make a ſport of ſuch things? verily your provocations are great, wherewith you provoke the juſt God. Verily great is the judgment that is nigh you, and your ſins draw it on you apace: do you think that the Lord caſt out Back-ſliders, Hypocrites, and unfaithful Men, to ſet up and eſtabliſh Idolaters, and open prophane Perſons? nay ſurely; therefore tremble ye wicked Workers, and howl ye prophane Idolaters, for the mighty and terrible day of the Lord is near to break out upon you: Thus ſaith the Lord God, I'le ſcatter, I'le ſcatter, I'le ſplit, divide, and ſeparate, I'le break and daſh to pieces, and none ſhall be able to gather, bind up, or joyn together; for mine anger is kindled, and my jealouſie ſhall burn till I have devoured mine Enemies, ſaith the <hi>Lord.</hi>
+            </p>
+            <p>Therefore ye People of <hi>England</hi> (that yet live in Wickedneſs) who have not wholly ſinned out the day of your Viſitation, to you I now ſpeak, you that feel the <hi>Lord</hi> yet ſtri<g ref="char:EOLhyphen"/>ving with you. Oh! return, return ſpeedily unto the manifeſtation of his Spirit, whereby he ſtrives with you. O! be not ſtill ſtiff-necked, but hearken to the Word of the <hi>Lord,</hi> which ſheweth you the thoughts and Intents of your Hearts, and hearken and be obedi<g ref="char:EOLhyphen"/>ent to the Call thereof, that ſo by its power you may haſten out of <hi>Babylon,</hi> both Young and Old, Rich and Poor, high and low, noble or ignoble, Profeſſor or prophane, who yet are there; for the <hi>Lord</hi>'s Controverſie is great with <hi>Babylon,</hi> her Merchants and In<g ref="char:EOLhyphen"/>habitants, and he will not much longer ſpare, but he will ſuddenly ſmite, and none ſhall be able to hinder his ſtroke. Yea, yea, he will wound, and none ſhall be able to heal; for the meaſure of her Iniquities, and Idolatries, and Whoredoms, are nigh full, and the Wine of her Fornications hath cauſed the Fatts to overflow, and ſhe is come up into remembrance before the <hi>Lord,</hi> the <hi>Juſt God,</hi> who will plague her, and all her Mer<g ref="char:EOLhyphen"/>chants, and Inhabitants, according to their Abominations, whereby they have grievouſly provoked him; therefore, come out of her whilſt mercy and time is offered, leſt you pe<g ref="char:EOLhyphen"/>riſh with her in her Judgments, which the <hi>Lord</hi> is ſtrongly and ſwiftly bringing upon her.</p>
+         </div>
+         <div type="postscript">
+            <head>POST-SCRIPT.</head>
+            <p>
+               <hi>OH</hi> England! England! <hi>leave off all thy wickedneſs, thy Whoring, Drunkenneſs, Swearing, Lying, Back-biting and Slandering one another; leave off thy wickedneſs, for fear the Lord ſhould cut thee off, for ſeveral ſad and dreadful Calamities will befal thee O</hi> England! <hi>may be before the time called</hi> Chriſtmaſs, <hi>and to day before to morrow, for that we know; therefore O</hi> England! <hi>Repent, for the Judgment day is nigh at hand.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for the Author, 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
